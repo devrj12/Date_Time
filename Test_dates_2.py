@@ -7,7 +7,6 @@ import os
 import numpy as np
 from datetime import datetime
 import matplotlib.pyplot as plt
-import matplotlib.pyplot as plt1
 import pandas as pd
 import matplotlib.dates as mdates
 
